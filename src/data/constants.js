@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/dasrohit15",
   resume:
-    "https://drive.google.com/file/d/13223zqzakXUw_-W0rws-uE8FT0KnTmNR/view?usp=sharing",
+    "https://drive.google.com/file/d/1lcjMmDf284hr9cT-QENH3bwjNu2D0nKq/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rohit07/",
   twitter: "https://x.com/15_roheet",
   insta: "https://www.instagram.com/dasrohit15/?hl=en",
