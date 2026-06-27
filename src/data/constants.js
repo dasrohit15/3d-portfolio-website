@@ -375,7 +375,7 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://dasrohit15.github.io/Ecommerce/",
+    github: "https://github.com/dasrohit15/Ecommerce",
     webapp: "https://15rohit-ecommerce.netlify.app/",
   },
   {
@@ -388,7 +388,7 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://dasrohit15.github.io/Weather-App/",
+    github: "https://github.com/dasrohit15/Weather-App",
     webapp: "https://15rohit-weatherapp.netlify.app/",
   },
   {
@@ -413,16 +413,16 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
+    title: "Lungs_Disease_prediction",
+    date: "Jun 2026 - Jul 2026",
     description:
       "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
     image:
       "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/dasrohit15/Lungs_Disease_prediction",
+    webapp: "https://15rohit-lung-pred.streamlit.app/",
   },
   /*{
     id: 3,
