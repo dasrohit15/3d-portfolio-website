@@ -407,7 +407,7 @@ export const projects = [
       "Redux",
       "NodeMailer",
     ],
-    category: "web app",
+    category: "machine learning",
     github: "https://github.com/dasrohit15/SafeSpace",
     webapp: "https://15rohit-safespace.netlify.app/",
   },
