@@ -350,7 +350,7 @@ export const projects = [
       "React Flow",
     ],
     category: "web app",
-    github: "https://dasrohit15.github.io/To-Do-List/",
+    github: "https://github.com/dasrohit15/To-Do-List",
     webapp: "https://to-do-list-15rohit.netlify.app/",
   },
   {
