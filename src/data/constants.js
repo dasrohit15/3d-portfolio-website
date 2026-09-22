@@ -198,16 +198,6 @@ export const skills = [
         image:
           "https://res.cloudinary.com/dyd911kmh/image/upload/v1640050215/image27_frqkzv.png",
       },
-      // {
-      //   name: "Adobe XD",
-      //   image:
-      //     "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
-      // },
-      // {
-      //   name: "Figma",
-      //   image:
-      //     "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
-      // },
     ],
   },
   {
@@ -228,13 +218,7 @@ export const skills = [
         image:
           "https://files.codingninjas.in/article_images/custom-upload-1682529998.webp",
       },
-      
-      
-      // {
-      //   name: "Grafana",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-      // },
+
       {
         name: "Computer Network",
         image:
