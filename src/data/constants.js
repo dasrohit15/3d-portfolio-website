@@ -13,7 +13,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I’m a Computer Science student and aspiring Full Stack Developer who enjoys building scalable web applications and intuitive user experiences. Alongside full-stack development, I’m passionate about AI & ML and love exploring how intelligent technologies can be integrated into real-world applications. I also have a strong interest in UI/UX, with a focus on creating clean, engaging, and user-friendly digital experiences.",
   github: "https://github.com/dasrohit15",
   resume:
     "https://drive.google.com/file/d/1lcjMmDf284hr9cT-QENH3bwjNu2D0nKq/view?usp=sharing",
@@ -101,41 +101,8 @@ export const skills = [
       },
     ],
   },
-  /*{
-    title: "DevOps",
-    skills: [
-      {
-        name: "AWS",
-        image:
-          "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-      },
-      {
-        name: "Google Cloud",
-        image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRi3XvHFU6O-LW8yeG4Ls_tDejMToqs7UmjS9rgNOfzA&s",
-      },
-      {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      },
-      
-      
-      // {
-      //   name: "Grafana",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-      // },
-      {
-        name: "Kubernetes",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
-      },
-      // {
-      //   name: "Prometheus",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
-      // },
+  /*
+      // 
     ],
   },
   {
@@ -241,6 +208,43 @@ export const skills = [
       //   image:
       //     "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
       // },
+    ],
+  },
+  {
+    title: "Core Competencies",
+    skills: [
+      {
+        name: "Data Structure & Algorithm",
+        image:
+          "https://www.incapp.in/assets/course-img/dsa-java.webp",
+      },
+      {
+        name: "Database Management System(DBMS)",
+        image:
+          "https://media.licdn.com/dms/image/v2/D4D12AQHD3T5P20F5Eg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1676173868445?e=2147483647&v=beta&t=JmJ7W-WjqXbMLuki1GpCXSPlvjHl01aDgIrPjcj7kwk",
+      },
+      {
+        name: "Operating System",
+        image:
+          "https://files.codingninjas.in/article_images/custom-upload-1682529998.webp",
+      },
+      
+      
+      // {
+      //   name: "Grafana",
+      //   image:
+      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
+      // },
+      {
+        name: "Computer Network",
+        image:
+          "https://blog.udemy.com/wp-content/uploads/2014/06/shutterstock_91234700.jpg",
+      },
+      {
+        name: "Compiler Design",
+        image:
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG4ykYoy83SUB9RR69ZXZJVFKsxdI2fOrQuXJKM48g6crOUKM6mDvQ5wA&s=10",
+     },
     ],
   },
 ];
