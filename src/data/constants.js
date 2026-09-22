@@ -16,7 +16,7 @@ export const Bio = {
     "I’m a Computer Science student and aspiring Full Stack Developer who enjoys building scalable web applications and intuitive user experiences. Alongside full-stack development, I’m passionate about AI & ML and love exploring how intelligent technologies can be integrated into real-world applications. I also have a strong interest in UI/UX, with a focus on creating clean, engaging, and user-friendly digital experiences.",
   github: "https://github.com/dasrohit15",
   resume:
-    "https://drive.google.com/file/d/1lcjMmDf284hr9cT-QENH3bwjNu2D0nKq/view?usp=sharing",
+    "https://drive.google.com/file/d/1kl5G6g3VVXxgWM-he24iDeA0O6vb0IKv/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/rohit07/",
   twitter: "https://x.com/15_roheet",
   insta: "https://www.instagram.com/dasrohit15/?hl=en",
